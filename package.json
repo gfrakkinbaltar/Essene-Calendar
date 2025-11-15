@@ -1,0 +1,11 @@
+{
+  "name": "essene-calender",
+  "version": "1.0.0",
+  "description": "Essene Calender - Professional web application",
+  "author": "Gaius",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaius/essene-calender"
+  }
+}
