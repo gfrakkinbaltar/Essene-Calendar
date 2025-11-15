@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Essene Calendar
+Comment=Ancient Hebrew Solar Calendar (364-day) used by the Essenes
+Exec=python3 %h/essene_calendar.py
+Icon=calendar
+Type=Application
+Categories=Office;Calendar;Education;
+Terminal=false
+StartupNotify=true
+Keywords=calendar;essene;hebrew;ancient;dead sea scrolls;solar;

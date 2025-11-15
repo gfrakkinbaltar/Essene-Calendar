@@ -1,0 +1,19 @@
+# Essene Calendar Dependencies
+# 
+# This application uses only Python standard library modules.
+# The only external requirement is tkinter for the GUI.
+
+# Core Python modules (included with Python):
+# - datetime
+# - calendar  
+# - json
+# - os
+
+# GUI Framework (usually requires separate installation):
+# tkinter (python3-tk package on most Linux distributions)
+
+# Installation commands by distribution:
+# Ubuntu/Debian: sudo apt install python3-tk
+# Fedora/RHEL:   sudo dnf install python3-tkinter  
+# Arch Linux:    sudo pacman -S tk
+# openSUSE:      sudo zypper install python3-tk
