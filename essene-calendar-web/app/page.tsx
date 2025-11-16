@@ -17,7 +17,14 @@ export default function Home() {
             Explore the calendar system used by the Essenes, the ancient Jewish sect that wrote the Dead Sea Scrolls.
             A perfect 364-day year divided into 52 weeks with no lunar observations.
           </p>
-          <div className="flex gap-4 justify-center">
+          <div className="flex flex-wrap gap-4 justify-center">
+            <Link 
+              href="/webapp"
+              className="px-8 py-3 bg-green-600 text-white rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center gap-2 shadow-lg hover:shadow-xl"
+            >
+              🌐 Launch Web App
+              <ArrowRight className="w-4 h-4" />
+            </Link>
             <Link 
               href="/calendar"
               className="px-8 py-3 bg-accent text-accent-foreground rounded-lg font-semibold hover:bg-accent/90 transition-colors flex items-center gap-2"
